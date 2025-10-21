@@ -6,3 +6,4 @@ argon2-cffi
 pyjwt
 pydantic-settings
 alembic
+pytest
